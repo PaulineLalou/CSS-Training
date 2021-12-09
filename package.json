@@ -1,0 +1,17 @@
+{
+  "name": "huckleberry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Joshua Comeau",
+  "scripts": {
+    "start": "live-server --port=5000 --host=localhost ."
+  },
+  "dependencies": {
+    "beautify": "0.0.8",
+    "eslint": "^8.4.1",
+    "live-server": "1.2.1"
+  },
+  "engines": {
+    "npm": ">5"
+  }
+}
